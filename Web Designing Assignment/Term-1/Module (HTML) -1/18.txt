@@ -1,0 +1,4 @@
+What is SVG?
+- SVG stands for Scalable Vector Graphic.
+- SVG is used for vector graphics technology.
+  Used to make different shapes like round, square, rectangle etc.

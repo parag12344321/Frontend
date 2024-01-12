@@ -1,0 +1,35 @@
+What is the ‘class’ attribute in HTML?
+- the ‘class’ attributre uniquely identify any tag
+  and apply formatting and styling to it. 
+- This attribute uniquely identifies any tag.
+- Then it is done for formatting and styling in particular tag.
+- Ex. 
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+      .para1{background-color: yellow;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+    </style>
+</head>
+<body >
+    <div class="para1">
+        <h2>Partition-1</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+
+    <div>
+        <h3>Partition-2<h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+    
+</body>
+</html>

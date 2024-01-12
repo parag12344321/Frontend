@@ -1,0 +1,18 @@
+What are the various formatting tags in HTML?
+- If you want to change the look of the text or content that appears in 
+ the webpage, then the html formatting tag is used here.
+- The vatious formatting tags are as below detials:
+- <p>Paragraph tag
+- <b>Bold text
+- <i>italic text
+- <em> - Emphasized text
+- <ins> - Inserted text
+- <sub> - Subscript text
+- <sup> - Superscript text
+- <strong> -This text is important!</strong>
+- <mark> - it will be convereted fonts in italic.
+- <br> - For break rows.
+- heading tags - <h1> to <h6>
+- <Abbr stands for abbriaviations>
+- <sub> - Subscript text
+- <sup> - Superscript text.

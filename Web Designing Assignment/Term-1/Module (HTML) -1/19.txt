@@ -1,0 +1,13 @@
+What is difference between HTML and XHTML?
+1. HTML:-
+- stands for HyperText Markup Language.
+- Devloped By Tim Berners-Lee in 1991.
+- Ext. .html or .htm
+- tag is not mandatory means <html>, <head>, <title> and <body>
+- closing is not mandatory
+2. XHTML:-
+- stands for Extensible HyperText Markup Language.
+- Devloped By W3C Organization in 2000.
+- .xhtml, .xht, .xml, .htm or .htm or .html
+- tag is mandatory means <html>, <head>, <title> and <body>
+- closing is mandatory

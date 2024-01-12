@@ -1,0 +1,26 @@
+What are HTML Entities?
+- HTML Entities Replaced reserved charecters in HTML.
+- If < greater than > less than you provide or include in a web page,
+  it may be that the browser does not take this understand and consider
+  it as a tag, html entities are used. It is exemplified as follows.
+- Suppose I want to display in a webpage like this :
+  Ex.    <p> p tag is written as <p> <\p> 
+  Output in browser : p tag is written as
+- So now if we want to get the output like this : p tag is written as <p>
+  So using this html entity &(An ampersand) will output as above.
+  Ex.    <p> p tag is written as &lt;p&gt;<\p> 
+  Output in browser : p tag is written as <p>
+- It means &lt -> Entity Name and
+           &#60 -> Entity Number
+- Other Example belows
+  1. <p> & or ampersand is written as &amp;<p>
+  Output :& or ampersand is written as &
+  2. <p> double quot is written as &quot;<p> 
+  Output :double quot is written as "
+  3. <p> copyright is written as &copy;<p>
+  Output :copyright is written as ©
+  4. <p> Registered mark is written as &reg;<p>
+  Output :Registered mark is written as ®
+  5. This is used to show space in the browser:
+     <p> This is space &nbsp in that </p>
+   

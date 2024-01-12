@@ -1,0 +1,12 @@
+How are active links different from normal links?
+1. Active Link:-
+- An active link is that line of code in action,
+  opening that other resource.
+- An Active link is a hyperlink that is currently being interacted with the user.
+  Whenever the user holds the mouse button on the link and not released yet 
+  or if right clicked on it, it will change its color into red,
+  this is when the link will be in active.
+2. Normal Link:-
+- A normal link is just a line of code that contains a pointer to another resource.    
+- In HTML, anormal link is a hyperlink that is not yet clicked by the user.
+  By default, the normal links will be in blue in color with an underline.

@@ -1,0 +1,43 @@
+What are different types of lists in HTML?
+- There are three types of lists in HTML.
+1. Order List
+2. Unorder List
+3. Nested List
+- For Example:
+1. Order List :
+- If you want to display the order list,
+  you can write in body tag it like this:
+Ex.  <h1>Order List</h1>
+       <ol>
+         <li>Banana</li>
+         <li>Apple</li>
+       </ol> 
+Output : Order List
+         1. Banana
+         2. Apple
+2. Unorder List :
+- If you want to display the Unorder list,
+  you can write in body tag it like this:
+Ex.  <h2>Unorder List</h2>
+       <ul>
+         <li>Orange</li>
+         <li>Asp.net</li> 
+       </ul>            
+Output : Unorder List
+         .Orange
+         .Asp.net
+3. Nested List :
+- If you want to display the Nested list,
+  you can write in body tag it like this:
+Ex.  <h2>Nested List</h2>
+       <ol>
+        <li>List of IT Language
+            <ul>
+        <li>Mern stack</li>
+        <li>Full stack developer</li>
+            </ul>
+        </ol> 
+Output : Nested List           
+         1.List of IT Language
+           o Mern stack
+           o Full stack developer

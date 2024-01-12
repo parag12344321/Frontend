@@ -1,0 +1,8 @@
+Are the HTML tags and elements the same thing?
+- HTML tag is just opening or closing entity. 
+  For example:<p> and </p> are called HTML tags.
+- Html elements contain the information written in html tag.
+- Html tags are like keywords where each word has a special meaning.
+- Html elements have general content.
+  For example:<p>This is the content</p>.
+  This complete thing is called a HTML element.

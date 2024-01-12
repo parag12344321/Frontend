@@ -1,0 +1,47 @@
+How is Cell Padding different from Cell Spacing?
+- Cell Padding and Cell Spacing the difference between both is in below details.
+A. Cell Padding:-
+- The row of the table or the <td> tag of the table is the space between
+  the cell ball or boundary and its contents i .e Cell Padding
+  or
+- Cell padding specifies the space between the table boundry and the cell 
+  content.
+
+B. Cell Spacing:-
+- Cell Spacing specifies the space between the table cells 
+  or
+- Cell Spacing controls the space between table cells  
+
+Ex. 
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Cell Padding</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <table align="center" border="1" cellpedding="5" cellspacing="5"
+    " width="70%">
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Email</th>
+        </tr>
+        <tr>
+            <td>Shiv</td>
+            <td>27</td>
+            <td>shiv@gmail.com</td>
+        </tr>
+        <tr>
+            <td>Madhav</td>
+            <td>28</td>
+            <td>madhav@gmail.com</td>
+        </tr>
+        
+    </table>
+    
+</body>
+</html>  

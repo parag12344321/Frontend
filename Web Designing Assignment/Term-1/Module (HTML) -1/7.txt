@@ -1,0 +1,81 @@
+What is the difference between the ‘id’ attribute and the ‘class’ attribute
+of HTML elements?
+- Both 'id' and ‘class’ attributre uniquely identify any tag
+  and apply formatting and styling to it.
+- But difference in below detials.
+- class are used for group of elements
+- class elements are always defined by . in css or style tag.
+- Ex. 
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+      .city{background-color: yellow;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+    </style>
+</head>
+<body >
+    <div class="city">
+        <h2>Partition-1</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+    <div class="city">
+        <h3>Partition-2<h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>    
+</body>
+</html>
+
+- id attribute used for 
+- id are used for unique element. 
+- The value of the html id attribute is unique 
+  throughout the entire html document
+- id elements are always defined by # in css or style tag.
+-Ex.
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style>
+      .city{background-color: yellow;font-family:Verdana, Geneva, Tahoma, sans-serif;}
+      #mycity{background-color: aqua;font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+    </style>
+</head>
+<body >
+    <div class="city">
+        <h2>Junagadh</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+
+    <div class="city">
+
+        <h3>Rajkot<h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+    <div id="mycity">
+
+        <h3>Jamnagar<h3>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        </p>
+    </div>
+    
+    
+</body>
+</html>

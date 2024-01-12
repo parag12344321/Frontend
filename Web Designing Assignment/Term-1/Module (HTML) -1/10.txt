@@ -1,0 +1,46 @@
+How can we club two or more rows or columns into a single row
+or column in an HTML table?
+- The rowspan attribute is used two or more rows into a single row.
+- The colspan attribute is used two or more columns into a single column.
+-Ex.
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Rowspan</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <!--Rowspan-->
+    <table border="n">
+        <tr>
+            <th>Name</th>
+            <th>Mobile No.</th>
+        </tr>
+        <tr>
+            <td rowspan="2">Rahul</td>
+            <td>9898989898</td>
+        </tr>
+        <tr>
+            <td>8181818181</td>
+        </tr>
+    </table>
+    <br>
+    <!--Colspan-->
+    <table border="n">
+        <tr>
+            <th>Name</th>
+            <th colspan="2">Mobile No.</th>
+        </tr>
+        <tr>
+            <td>Rahul</td>
+            <td>9898989898</td>
+            <td>8181818181</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
+ 

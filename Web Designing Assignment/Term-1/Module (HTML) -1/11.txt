@@ -1,0 +1,26 @@
+What is the difference between a block-level element and an inline element?
+A. Block-level element:-
+- The paragraph<p> tag is a block element. Block element means it take up the entire
+  width.Any element i.e. next will be after it.
+B.inline element 
+- The span tag is an inline element. That means, it can be in a single line
+-Ex.:
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Inline and Block element</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <!--Block Element-->
+    <p>This is a Block element.</p>
+    <p>With Paragraph.</p>
+    <!--Inline Element-->
+    <span>This is a inline element.</span>
+    <span>With Paragraph.</span>
+</body>
+</html> 

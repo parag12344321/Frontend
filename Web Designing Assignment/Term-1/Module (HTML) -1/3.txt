@@ -1,0 +1,11 @@
+What are void elements in HTML?
+- A void elements is also called an empty elements or unpaired tags.
+- Those tags which have no data presented in between tags.
+- These are self closing tags.
+- Ex.     <hr> => unpaired 
+          <br> 
+          <p> 
+          <input>
+          <img>
+          <meta>
+          <link>  

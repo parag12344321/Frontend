@@ -1,0 +1,28 @@
+What is the use of an iframe tag?
+- This tag gives a frame by placing it. 
+  This is a frame that you can put any other webpage in our website or html page.
+  Let's say we have a website and we can set up a referral website in between.
+  So this is how ifrem is used.
+- Ex.
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Iframe used</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+       Cum possimus officiis porro, in adipisci, 
+       rem soluta similique facilis, 
+       reprehenderit distinctio est ipsum excepturi vitae.
+       Cumque laudantium maxime eius neque voluptates?
+    </p>
+    <iframe src="https://www.tops-int.com/" width="100%">
+
+    </iframe>
+    
+</body>
+</html>

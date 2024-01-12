@@ -1,0 +1,20 @@
+What are tags and attributes in HTML?
+- HTML tags create structure.
+- tags are two types:
+  (a) Paired tag:
+      Ex. <p> </p> => paired tag
+  (b) Unpaired tags:
+      Ex. <hr> => unpaired 
+          <br> 
+          <p> 
+          <input>
+          <img>
+          <meta>
+          <link>  
+- HTML attributes:
+- This describes the properties of any tag or provides additional information
+  about how to better present the content.
+- Attributes divides in two part.
+- Name and Value
+      Ex. <hr Color="Red">
+      Here color is the name and red is the value.

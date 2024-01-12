@@ -1,0 +1,20 @@
+What are logical and physical tags in HTML?
+1. physical tags: 
+- physical tags are the tags that are used to give the text a visual appearance.
+- Ex.
+A. bold tag <b>..</b>
+- Anythings that apears within<b>..</b> element is displayed in bold.
+B. italic tag <i>..</i>
+- Anythings that apears within<i>..</i> element is displayed in italic.
+C. underline tag <u>..</u>
+- Anythings that apears within<u>..</u> element is displayed in underline.
+
+2. logical tags:
+- logical tags are used to append the value.
+- logical style render the text according to its meaning.
+-Ex.
+A. emphasized tag:
+- Anythings that apears within<em>..</em> element is displayed in emphasized.
+B. strong tag:
+- Anythings that apears within<strong>..</strong> element is displayed in 
+  important text. 
