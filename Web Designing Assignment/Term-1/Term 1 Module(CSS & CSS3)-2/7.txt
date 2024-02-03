@@ -1,0 +1,4 @@
+How can image repetition of the backup be controlled?
+- The'background-repeat' property and check that
+  it's set to "no-repeat". so the image repetition of 
+  the backup be cotrolled.

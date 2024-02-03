@@ -1,0 +1,3 @@
+What do you understand by CSS opacity?
+This is a property of css through which we can control 
+how transparent any object is.

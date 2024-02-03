@@ -1,0 +1,7 @@
+How to maintain the CSS specifications?
+- World Wide Web Consortium(W3C) maintain the CSS specifications
+- Even though every browser supports CSS,
+  there are many inconsistencies in the supported specification version.
+- Some browsers even have their own implementation of the specification.
+- W3C maintain the CSS even the older version to support the project
+  which are mapping the old version.

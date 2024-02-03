@@ -1,0 +1,8 @@
+What are the disadvantages of CSS?
+- Some styles sheet are supported and some are not.
+  It means Browser compatibility.
+- There is a security deficiency in css.
+- Restricted background per eliments.
+- Unconsistent Browser suppoert.
+- The web developers need to test for compatibility, running the program across
+  multiple browsers.    

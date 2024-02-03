@@ -1,0 +1,8 @@
+What is the meaning of the CSS selector?
+- The CSS selectors are patterns used to select the elements you want to style.
+- Two main selectors are used in CSS style sheet
+  1. .class(eg .intro):
+     Selects all elements with class="intro"
+  2. #id(eg #name):
+     Selects the element with id="name"
+     

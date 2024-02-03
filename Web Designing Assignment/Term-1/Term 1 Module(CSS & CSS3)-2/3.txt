@@ -1,0 +1,15 @@
+What is the difference between CSS2 and CSS3?
+CSS2:-
+- Some browsers supported or not also.
+- A superset of CSS2 include a number of new compatibility like absolute,
+  relative & fixed poising of elemets.
+- There is no backward compatibility.
+- simple selectors were preset.
+- styles were complex
+
+CSS3:-
+- Version supports many more browsers than CSS2.
+- There is backward compatibility maintained.
+- New CSS selectors
+- There is provision for automatically assigning some styles.
+- Special fonts can be used like google fonts. 

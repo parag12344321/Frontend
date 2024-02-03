@@ -1,0 +1,7 @@
+What is embedded style sheets?
+- Suppose there are 20 to 25 paragraphs in one sheet and
+  we want to change the text style, size or color of all of them,
+  then going inside each paragraph and using an inline sheet will consume
+  a lot of time, so we use embedded to save that time.
+- For an embedded style sheet, by using the style tag inside the head tag,
+  applying a css rule will apply that rule to all for any changes.

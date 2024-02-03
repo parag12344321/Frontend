@@ -1,0 +1,38 @@
+What are the media types allowed by CSS?
+- CSS media types allow you to format your documents to be presented
+  correctly on various types of media such as screen, print, an aural
+  browser, etc.
+- We have currently two ways to specify media dependencies for style sheets:
+1. Specify the target medium from a style sheet with the @media 
+   or @import at-rules.
+- The @media rule is used to define different style rules for different
+  media types in a single style sheet.
+- An @media rule specifies the target media types 
+  (separated by commas) of a set of rules.
+  Ex.:
+  @media screen{
+    body {
+        color: #32cd32;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+         }
+  @media print {
+    body{
+    }
+- The @import rule is another way of setting style information for a 
+  specific target media — Just specify the comma-separated media types
+  after the URL of the imported style sheets. 
+  Ex.:
+  @import url("css/screen.css") screen;
+  @import url("css/print.css") print;
+    body {
+    background: #f5f5f5;
+    line-height: 1.2;
+}
+
+2. Specify the target medium within the document language.
+- The media attribute on the LINK element specifies 
+  the target media of an external style sheet.
+  Ex.:
+  <link rel="stylesheet" media="screen" href="css/screen.css">
+  <link rel="stylesheet" media="print" href="css/print.css">

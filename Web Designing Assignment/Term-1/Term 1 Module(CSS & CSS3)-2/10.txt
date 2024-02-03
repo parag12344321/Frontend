@@ -1,0 +1,14 @@
+Why should background and color be used as separate properties?
+- The background properties in css are as below
+(1) background-color
+(2) background-image
+(3) background-position
+(4) background-repeat
+(5) background-size
+(6) background-clip
+(7) background-attachment
+- The color property is used to change the text color of a html element.
+  In this example "This is my text" would be red.
+  The CSS background-color is used to change the background color.
+- it means all the background properties are used to change
+  the background while only the color property is used to change the color of the text.  

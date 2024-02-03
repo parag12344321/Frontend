@@ -1,0 +1,3 @@
+How can the background color of an element be changed?
+- The 'background-color' property in CSS is used to change
+  the background color of an element.

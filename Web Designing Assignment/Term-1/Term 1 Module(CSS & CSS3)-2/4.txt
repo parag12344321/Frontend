@@ -1,0 +1,10 @@
+Name a few CSS style components
+- `color`: Sets the text color.
+
+- `font-size`: Defines the font size.
+
+- `margin`: Specifies the margin around an element.
+
+- `padding`: Sets the padding inside an element.
+
+- `border`: Controls the border of an element.

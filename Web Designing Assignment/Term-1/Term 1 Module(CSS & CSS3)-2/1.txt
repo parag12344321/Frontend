@@ -1,0 +1,8 @@
+What are the benefits of using CSS?
+- CSS Improves website speed.
+- To modify the entire website in CSS only one css file has to be modified
+  which saves a lot of time.
+- CSS helps to develop websites.
+- Customizing online pages in CSS is easy.
+- CSS reduces file size.
+- Easy to maintenance.

@@ -1,0 +1,9 @@
+What are the external style sheets?
+- The external style sheets, you can change or formatting the look of an
+  entire webpage or website by changing just one file.
+- An external style sheet is a separate CSS file that can be accessed by
+  creating a link within the head section of the webpage. 
+- Ex. :
+<head>
+<link rel="stylesheet" type="text/css" href=mystyle.css>
+</head>
