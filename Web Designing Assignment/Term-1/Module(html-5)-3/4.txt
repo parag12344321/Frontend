@@ -1,0 +1,17 @@
+Canvas and SVG tags
+==> Canvas tag:
+- Canvas is raster based and composed of pixel. it means As you zoom in on the graphic,
+  you will see small dots.
+- Give better performance with larger number of objects.
+- Poor text rendering capabilities.
+- Poor scalability.  
+
+
+==> SVG tag:
+- SVG stands for Scalable Vector Grhphics.
+- SVG is used to draw 2D Vector based Grhphics in web pages.
+- W3C recomands SVG technology only to draw graphics in a web page.
+- For Example: rectangle, circle, path, and taxes etc we can drew 
+
+ 
+

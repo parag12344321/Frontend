@@ -1,0 +1,13 @@
+Semantic element in HTML5?
+- The meaning of Semantic is the meaning,
+i.e. to give meaning to any word, it means what is the meaning of a word,
+its called Semantic.
+- A Semantic element clearly describes its meaning to both the brouser
+  and the developer.
+- The non Semantic element tells nothing about its content like <div> and
+  <span> element.
+- Example of Semantic elements like <form>, <table>, and <article> - 
+  clearly defines its content.
+- As soon as you read this element you will know that the usage.
+- Semantic elements: <article>,<aside>,<detials>,<header>,<footer>,
+  <mean>,<mark>,<section>,<summery>,<time>,<nav> etc.     

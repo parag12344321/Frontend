@@ -1,0 +1,13 @@
+What are the new tags added in HTML5?
+- The new tags added in HTML5 are below.
+1. Header tag
+2. Nav tag
+3. Main tag
+4. Section tag
+5. Article tag
+6. Aside tag
+7. Video tag
+8. Audio tag
+9. Footar tag
+10. Iframe tag
+11. abbr tag 
